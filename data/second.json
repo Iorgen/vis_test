@@ -1,0 +1,64 @@
+{
+    "Person": {
+        "FName": "John",
+        "LName": "Rambo",
+        "Sex": "Male",
+        "Height": "6 ft",
+        "Weight": "90 KG",
+        "Children": [
+            {
+                "FName": "Anna",
+                "LName": "Rambo",
+                "Sex": "Female",
+                "Height": "5 ft",
+                "Weight": "55 KG"
+            }
+        ]
+    },
+    "ANIMAL": {
+        "FName": "John",
+        "LName": "Rambo",
+        "Sex": "Male",
+        "Height": "6 ft",
+        "Weight": "90 KG",
+        "Children": [
+            {
+                "FName": "Anna",
+                "LName": "Rambo",
+                "Sex": "Female",
+                "Height": "5 ft",
+                "Weight": "55 KG"
+            },
+            {
+                "FName": "Jemmy",
+                "LName": "Rambo",
+                "Sex": "Male",
+                "Height": "5 ft",
+                "Weight": "60 KG"
+            }
+        ]
+    },
+    "HUMAN_OBJECT": {
+        "FName": "John",
+        "LName": "Rambo",
+        "Sex": "Male",
+        "Height": "6 ft",
+        "Weight": "90 KG",
+        "Children": [
+            {
+                "FName": "Anna",
+                "LName": "Rambo",
+                "Sex": "Female",
+                "Height": "5 ft",
+                "Weight": "55 KG"
+            },
+            {
+                "FName": "Jemmy",
+                "LName": "Rambo",
+                "Sex": "Male",
+                "Height": "5 ft",
+                "Weight": "60 KG"
+            }
+        ]
+    }
+}
